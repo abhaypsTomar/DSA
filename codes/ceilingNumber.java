@@ -5,10 +5,10 @@
 //     public static void  main(String[] args){
 //         int[] arr ={2,3,5,9,14,16,18};
 //         int target = 15;
-//         int ans = binary(arr,target);
+//         int ans = binrary(arr,target);
 //         System.out.println(target);
 
-//     static int binary(int[] arr,int target){
+//     static int binraryS(int[] arr,int target){
 //         int start = 0;
 //         int end = arr.length-1;
 //         while(start<=end){
